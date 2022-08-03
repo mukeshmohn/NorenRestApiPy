@@ -3,6 +3,6 @@ import os
 from codecs import open
 from setuptools import setup
 setup(
-name="MUKESH",
+name="NorenRestApiPy",
 versio="0.0.20"
 )
