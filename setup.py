@@ -9,8 +9,8 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="NorenRestApiPy",
     version="0.0.7",
-    author="KumarAnand",
-    author_email="kumar.anand@kambala.co.in",
+    author="Mukesh",
+    author_email="mukeshmohn@gmail.com",
     description="A package for NorenOMS",
     long_description=long_description,
     long_description_content_type="text/markdown",
